@@ -5,6 +5,9 @@
 
 You wake up...
 
-<sub>*what do you do?*</sub>
+<sup>*you begin to get up*</sup>
 
-- successful test
+You cannot move. Your limbs will not respond.
+
+You begin to panic...
+
